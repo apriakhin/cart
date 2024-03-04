@@ -1,5 +1,5 @@
 // @ts-check
 
-import half from './src/half.js';
+import cart from './src/cart.js';
 
-export default half;
+export default cart;

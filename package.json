@@ -1,9 +1,9 @@
 {
-  "name": "@hexlet/nodejs-package",
+  "name": "@hexlet/cart",
   "version": "0.0.3",
   "description": "Node.js boilerplate package",
   "bin": {
-    "nodejs-package": "bin/nodejs-package.js"
+    "nodejs-package": "bin/cart.js"
   },
   "simple-git-hooks": {
     "pre-push": "make lint"
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/hexlet-boilerplates/nodejs-package.git"
   },
-  "author": "Kirill Mokevnin",
+  "author": "Anton Priakhin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hexlet-boilerplates/nodejs-package/issues"
